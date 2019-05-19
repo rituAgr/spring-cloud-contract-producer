@@ -24,6 +24,9 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
+.gradle/*
+*.bin
+*.lock
 
 ### VS Code ###
 .vscode/

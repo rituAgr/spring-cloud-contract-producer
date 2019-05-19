@@ -21,7 +21,7 @@ public class BaseClass {
     }
 
     @Test
-    public void abc123() {
+    public void test() {
 
     }
 }
